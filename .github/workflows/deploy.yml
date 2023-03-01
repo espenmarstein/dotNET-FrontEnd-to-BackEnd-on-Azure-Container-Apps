@@ -8,7 +8,7 @@ on:
 env:
   
   # alphanumeric string under 14 characters
-  RESOURCE_GROUP_NAME: playGround
+  RESOURCE_GROUP_NAME: playground
 
   # specify your preferred region
   REGION: North Europe
